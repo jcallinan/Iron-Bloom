@@ -6,10 +6,10 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { Text } from 'react-native';
 
 import HomeScreen from '../screens/HomeScreen';
-import WorkoutLibraryScreen from '../screens/WoekoutLibraryScreen';
+import WorkoutLibraryScreen from '../screens/WorkoutLibraryScreen';
 import WorkoutDetailScreen from '../screens/WorkoutDetailScreen';
 import GoalSettingScreen from '../screens/GoalSettingScreen';
-import ProfileScreen from '..screens/ProfileScreen';
+import ProfileScreen from '../screens/ProfileScreen';
 
 const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();
