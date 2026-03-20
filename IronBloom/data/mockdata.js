@@ -1,6 +1,6 @@
 //stores the shared workout dta in one place
 
-export const workout = [
+export const workouts = [
     {
         id: '1',
         title: ' Beginner Full Body',
